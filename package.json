@@ -1,0 +1,22 @@
+{
+  "name": "jt3-workbench",
+  "version": "0.0.1",
+  "description": "Workbench for tj3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/jt3-workbench.git"
+  },
+  "keywords": [
+    "jt3"
+  ],
+  "author": "JeLewine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiberJe/jt3-workbench/issues"
+  },
+  "homepage": "https://github.com/LiberJe/jt3-workbench#readme"
+}
